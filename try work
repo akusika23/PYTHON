@@ -1,0 +1,28 @@
+Kofi = 50
+yaa = 80
+
+# comarison operators
+print(Kofi == yaa)
+print(Kofi != yaa)
+print(Kofi > yaa)
+print(Kofi < yaa)
+print(Kofi >= yaa)
+print(Kofi <= yaa)
+
+#Assignment operator
+Kofi = 50
+print (Kofi)
+Kofi += 50
+print (Kofi)
+Kofi -= 50
+print(Kofi)
+Kofi *= 2
+print(Kofi)
+Kofi /= 2
+print(Kofi)
+
+# Logical operator
+
+print ( (Kofi > 50) and (yaa > 80 ))
+print ( (Kofi > 50) and (yaa < 80 ))
+print ( not (Kofi == 50))
